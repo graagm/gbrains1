@@ -1,3 +1,3 @@
 ## Prox
 
-![newlog](https://container-depo.ru, 'flag')
+[newlog](https://container-depo.ru, 'flag')
